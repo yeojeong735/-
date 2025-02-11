@@ -8,3 +8,4 @@
 
 
 ##### [GPTs 프롬프트 유출 목록](https://github.com/friuns2/Leaked-GPTs?tab=readme-ov-file)
+##### [뉴스 주식 분석 GPTs 만들기](https://www.youtube.com/watch?v=HD6yhTCWzgQ&t=92s)
